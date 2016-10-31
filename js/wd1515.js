@@ -1,5 +1,5 @@
 $(document).ready(function(){
-	$('#memberreview').click(function(){
+	$('#memberview').click(function(){
 		alert('test!');
 	});
 });
